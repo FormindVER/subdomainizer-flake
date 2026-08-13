@@ -31,7 +31,7 @@
           owner = "nsonaniya2010";
           repo = "SubDomainizer";
           rev = "master";
-          hash = "sha256-DeTk76XfpkklXMsE7QcSf1QsNC4c51GdxZxhp4MJUn8=";
+          hash = "sha256-2kkJhfjF+Lued9zFTvFjWtAALk7vdAO/0aw06kcxvVo=";
         };
 
         nativeBuildInputs = [ pkgs.makeWrapper ];
